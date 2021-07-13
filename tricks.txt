@@ -1,0 +1,93 @@
+
+viewChild
+lifecycle
+cross component communication
+
+
+
+Shared Module:
+use providers for pipes in this
+and import FormsModule in imports
+
+
+to fix lint automatically
+go to package.json
+script->lint:"ng lint" => add --fix
+add:"ng lint --fix"  run npm run lint
+
+To center page
+https://www.digitalocean.com/community/tutorials/css-align-justify
+https://www.w3.org/Style/Examples/007/center#vertical3
+mast hai bhai
+
+
+let course :any = {};
+
+//Important 
+
+// binding, life cycle hooks, ngOnchange() [when are they called, only at input and parent child relationship]
+// change detection strategies [little advanced]
+
+// Ankur
+// components communications, parent child, siblings. When to use what
+
+// single instance and multi instance -> on services
+
+// Gunjan
+// Wild card routes, where which route should be placed
+
+// diwkar
+// Observable()
+
+// Main points, Ankur
+// input output , data binding, components communication
+// at least, components and services from scratch
+
+
+course compoentn.html
+ <!-- from here we are sending course.rating to rating -->
+
+course.compoenet.ts
+@Output('enroll') courseEnroll = new EventEmitter();
+  //  output get created here first. then goes to upper html file and
+  // goes its .ts file
+
+<!-- from here [data]="courses" we are sending the courses to data, then
+            @input [data] can be done to get these courses, it(data) gets assigned to courses in courses-container  -->
+
+
+Points
+
+caniuse to chk if that tag is available in new version of browser
+
+Gallery pattern
+https://www.quackit.com/css/grid/examples/css_grid_photo_gallery_examples.cfm
+
+
+--body{
+margin:0;
+}
+
+--Some times float left will not work for width:50%
+because padding would have been involved.
+So,
+*{
+box-sizing: border-box;
+}
+
+--Flex applies to containers kind, whereas inline-block to single elements.
+
+--Justify-content only applies to flex containers.
+
+--After adding display: flex;
+for responsive/wrapping inside the container if content is more
+add,  flex-wrap: wrap;
+
+--Column drop, layout structure,Fluid columns etc u can use, but if u r perfect in
+flex and grid. This can be avoided.
+
+--due aspect ratio if u give width: in percentage height will aready be taken,
+try putting width in px, then it will change.But this practise is never done (in px)
+
+SME's
+->flex-grow, flex-basis and flex-shrink

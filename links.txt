@@ -1,0 +1,122 @@
+
+
+
+
+Pradeep's Videos for docker commands
+https://gitlab.com/classpath-docker/docker-lab
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
+
+
+
+git cloud
+sudo yum install -y git
+git config --global user.name pradeep
+git config --global user.email pradeep.kumar44@gmail.c om
+shh-keygen
+cd ~/.ssh
+cat id_rsa.pub
+cd ~/
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+. ~/.nvm/nvm.sh
+nvm install node
+node -v
+
+npm install -g @angular/cli
+sudo amazon-linux-extras install nginx1
+
+create /var/www/demo/  => index.html "hello world";
+inside the nginx.conf file put the root as  /var/www/demo
+
+.........
+cd etc/nginx
+sudo vi nginx.conf  (remove the path of root and add to ur courses)
+...........
+
+sudo systemctl start nginx
+cd /etc
+cd nginx
+
+1) first clone this repo https://del.tools.publicis.sapient.com/bitbucket/scm/psjxib/courseflix.git
+
+
+Mandatory to have
+1. Component design and implementation- 10 marks
+2. Implementing service with HttpClient implementation - 10 marks 
+3. Coding best practices - 10 marks
+4. Component to component communication using services - 10 marks
+
+Good to have
+5. Displaying "No products message" when there are no products using directives - 5 marks (bonus)
+6. Error handling using HttpInterceptors - 5 marks (bonus)
+
+
+
+Drive link for videos
+https://drive.google.com/drive/folders/1tazg9mKMPUWFThWLbGkOIdDzmrrq2Q57
+
+Topic: Angular Batch 1
+
+Date: Mar 12, 2021 02:40 PM India
+
+ 
+
+Meeting Recording:
+
+https://us02web.zoom.us/rec/share/ojSIn7iwAGEGhD1hKR7Ps3yOySZRsO9WN1OSK2L3FfC0O8X6YA19knI_EUoBfp0J.-MqpNn9q0mCkI8nq
+
+ 
+
+Topic: Angular Batch 1
+
+Start Time : Mar 15, 2021 08:22 AM
+
+ 
+
+Meeting Recording:
+
+https://us02web.zoom.us/rec/share/FOgBzw_hMsFfI__5gUXsGyUyaIdb6INgLl_6YjQN5ptbnX6LmhVcz79j42VIsbaM.Eb-0gQ5b0ILmLN1V
+
+ 
+
+Topic: Angular Batch 1
+
+Start Time : Mar 16, 2021 08:21 AM
+
+ 
+
+Meeting Recording:
+
+https://us02web.zoom.us/rec/share/S1LwekzT_5O3qNVZFwsOWxiZyonR7dlHJl4Fd4nVVVyNVpI-qidUMYXJlKXcuzh5.3s-o1_KwY1JQERIn
+
+ 
+Topic: Angular Batch 1
+Start Time : Mar 16, 2021 01:54 PM
+
+Meeting Recording:
+
+https://us02web.zoom.us/rec/share/RSS74JmZpqYAnZF73iuxBerq7gt_zRfwFpFGO6KS43FL8YDV9Gi3A4jRz-62ow.V2H-IYjUIPdmaI93
+For any further clarifications please call/mail us.
+I am happy to help you on my undersigned contact details.
+Regards.
+ cid:d782ef25-c9f9-4a53-a2f0-6775f26b90bc
+Chiranjeevi
+
+
+https://lion.account.box.com/login
+
+Kota sai siddharth
+Ravi Khandelwal
+
+
+
+Key for restdb.io 0f0bba402f2850af3bfc941013c71825
+
+Nodejs read some Info on this => https://nodejs.dev/learn/the-nodejs-event-loop
+
+syed
+@Syed123
+
+pyrl id
+124251- Intern
+126287 - Junior Associate
